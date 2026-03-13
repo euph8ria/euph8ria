@@ -1,2 +1,4 @@
 - https://euph8ria.github.io/euph8ria/
 - https://euph8ria.github.io/euph8ria/Assets/Music/
+- https://euph8ria.github.io/euph8ria/Assets/Images/
+- https://euph8ria.github.io/euph8ria/Assets/Images/Icons/
